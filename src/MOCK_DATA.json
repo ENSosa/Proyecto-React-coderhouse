@@ -1,0 +1,323 @@
+[
+    {
+      "id": 1,
+      "title": "Televisor Samsung 50\" UHD 4K",
+      "description": "Televisor inteligente con resolución UHD 4K y tecnología HDR.",
+      "price": 350000,
+      "pictureUrl": "/src/assets/products-img/tv-samsung-50.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 2,
+      "title": "Laptop Dell Inspiron 15",
+      "description": "Laptop con procesador Intel Core i5, 8GB RAM y 256GB SSD.",
+      "price": 270000,
+      "pictureUrl": "/src/assets/products-img/notebook i5.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 3,
+      "title": "Smartphone iPhone 14",
+      "description": "iPhone 14 con 128GB de almacenamiento y pantalla OLED.",
+      "price": 450000,
+      "pictureUrl": "/src/assets/products-img/iphone.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 4,
+      "title": "Auriculares Sony WH-1000XM5",
+      "description": "Auriculares con cancelación de ruido y sonido Hi-Res.",
+      "price": 120000,
+      "pictureUrl": "/src/assets/products-img/auriculares-sony.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 5,
+      "title": "Tablet Samsung Galaxy Tab S8",
+      "description": "Pantalla de 11\" con 256GB de almacenamiento y compatibilidad con S Pen.",
+      "price": 220000,
+      "pictureUrl": "/src/assets/products-img/tablet-samsung-11.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 6,
+      "title": "Cafetera Nespresso Vertuo Plus",
+      "description": "Cafetera automática con sistema de cápsulas y espuma de leche.",
+      "price": 95000,
+      "pictureUrl": "/src/assets/products-img/Cafetera Nespresso Vertuo.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 7,
+      "title": "Lavadora LG TurboWash 10kg",
+      "description": "Lavadora automática con múltiples programas de lavado.",
+      "price": 250000,
+      "pictureUrl": "/src/assets/products-img/Lavadora LG.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 8,
+      "title": "Parlante Bluetooth JBL Flip 6",
+      "description": "Parlante portátil con sonido estéreo y resistencia al agua IP67.",
+      "price": 85000,
+      "pictureUrl": "/src/assets/products-img/Parlante Bluetooth.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 9,
+      "title": "Refrigerador Samsung 320L",
+      "description": "Refrigerador con sistema No Frost y compartimientos ajustables.",
+      "price": 380000,
+      "pictureUrl": "/src/assets/products-img/Refrigerador Samsung 320L.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 10,
+      "title": "Monitor LG 24\" Full HD",
+      "description": "Monitor con resolución Full HD y tecnología IPS.",
+      "price": 95000,
+      "pictureUrl": "/src/assets/products-img/Monitor LG 24.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 11,
+      "title": "Aspiradora Dyson V11",
+      "description": "Aspiradora inalámbrica con potencia ajustable y filtro HEPA.",
+      "price": 290000,
+      "pictureUrl": "/src/assets/products-img/Aspiradora Dyson.png",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 12,
+      "title": "Freidora de Aire Philips",
+      "description": "Freidora de aire con capacidad de 4L y control de temperatura.",
+      "price": 120000,
+      "pictureUrl": "/src/assets/products-img/Freidora de Aire Philips.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 13,
+      "title": "Smartwatch Apple Watch Series 8",
+      "description": "Reloj inteligente con monitorización de salud y GPS.",
+      "price": 200000,
+      "pictureUrl": "/src/assets/products-img/Smartwatch Apple Watch Series 8.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 14,
+      "title": "Plancha de Vapor Philips",
+      "description": "Plancha con golpe de vapor y suela antiadherente.",
+      "price": 45000,
+      "pictureUrl": "/src/assets/products-img/Plancha de Vapor Philips.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 15,
+      "title": "Licuadora Oster",
+      "description": "Licuadora con vaso de vidrio y 3 velocidades.",
+      "price": 75000,
+      "pictureUrl": "/src/assets/products-img/Licuadora Oster.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 16,
+      "title": "Horno Eléctrico Atma 30L",
+      "description": "Horno eléctrico con temporizador y control de temperatura.",
+      "price": 98000,
+      "pictureUrl": "/src/assets/products-img/Horno Eléctrico Atma 30L.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 17,
+      "title": "Consola PlayStation 5",
+      "description": "Consola de última generación con soporte para 4K y realidad virtual.",
+      "price": 450000,
+      "pictureUrl": "/src/assets/products-img/Consola PlayStation 5.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 18,
+      "title": "Microondas Whirlpool 25L",
+      "description": "Microondas digital con grill y 10 niveles de potencia.",
+      "price": 110000,
+      "pictureUrl": "/src/assets/products-img/Microondas Whirlpool 25L.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 19,
+      "title": "Smartphone Samsung Galaxy S23",
+      "description": "Smartphone con pantalla AMOLED y 256GB de almacenamiento.",
+      "price": 380000,
+      "pictureUrl": "/src/assets/products-img/Smartphone Samsung Galaxy S23.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 20,
+      "title": "Reproductor de Blu-ray Sony",
+      "description": "Reproductor de Blu-ray con resolución 4K y conectividad WiFi.",
+      "price": 70000,
+      "pictureUrl": "/src/assets/products-img/Reproductor de Blu-ray Sony.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 21,
+      "title": "Cámara Nikon D5600",
+      "description": "Cámara réflex digital con sensor de 24.2MP y grabación Full HD.",
+      "price": 320000,
+      "pictureUrl": "/src/assets/products-img/Cámara Nikon D5600.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 22,
+      "title": "Lavarropas Whirlpool 9kg",
+      "description": "Lavarropas automático con sistema de carga superior y 12 programas.",
+      "price": 200000,
+      "pictureUrl": "/src/assets/products-img/Lavarropas Whirlpool 9kg.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 23,
+      "title": "Router WiFi TP-Link Archer AX10",
+      "description": "Router WiFi 6 de alta velocidad con 4 antenas y control parental.",
+      "price": 85000,
+      "pictureUrl": "/src/assets/products-img/Router WiFi TP-Link Archer AX10.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 24,
+      "title": "Teclado Mecánico Logitech G413",
+      "description": "Teclado mecánico retroiluminado con switches táctiles Romer-G.",
+      "price": 65000,
+      "pictureUrl": "/src/assets/products-img/Teclado Mecánico Logitech G413.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 25,
+      "title": "Termotanque Eléctrico Rheem 80L",
+      "description": "Termotanque eléctrico con capacidad de 80 litros y termostato ajustable.",
+      "price": 160000,
+      "pictureUrl": "/src/assets/products-img/Termotanque Eléctrico Rheem 80L.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 26,
+      "title": "Controlador de Juego Xbox Series X",
+      "description": "Control inalámbrico con diseño ergonómico y retrocompatibilidad.",
+      "price": 45000,
+      "pictureUrl": "/src/assets/products-img/Controlador de Juego Xbox Series X.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 27,
+      "title": "Ventilador de Pie Liliana 18\"",
+      "description": "Ventilador de pie con 3 velocidades y oscilación automática.",
+      "price": 30000,
+      "pictureUrl": "/src/assets/products-img/Ventilador de Pie Liliana 18.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 28,
+      "title": "Impresora Multifunción HP DeskJet 3775",
+      "description": "Impresora con escáner y conectividad WiFi, ideal para el hogar.",
+      "price": 62000,
+      "pictureUrl": "/src/assets/products-img/Impresora Multifunción HP DeskJet 3775.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 29,
+      "title": "Smart TV LG 43\" Full HD",
+      "description": "Televisor inteligente con sistema operativo WebOS y HDR.",
+      "price": 240000,
+      "pictureUrl": "/src/assets/products-img/Smart TV LG 43.webp",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 30,
+      "title": "Aire Acondicionado Split BGH 3200W",
+      "description": "Aire acondicionado frío/calor con eficiencia energética A+.",
+      "price": 380000,
+      "pictureUrl": "/src/assets/products-img/Aire Acondicionado Split BGH 3200W.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 31,
+      "title": "Lámpara Inteligente Xiaomi",
+      "description": "Lámpara LED inteligente con control vía app y asistente de voz.",
+      "price": 18000,
+      "pictureUrl": "/src/assets/products-img/Lámpara Inteligente Xiaomi.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 32,
+      "title": "Cocina Eléctrica Atma",
+      "description": "Cocina eléctrica de 4 hornallas con horno eléctrico integrado.",
+      "price": 230000,
+      "pictureUrl": "/src/assets/products-img/cocina-atma-electrica-60-cm-cch062b.jpg",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 33,
+      "title": "Cámara de Seguridad Hikvision",
+      "description": "Cámara de vigilancia IP con visión nocturna y grabación en HD.",
+      "price": 45000,
+      "pictureUrl": "/src/assets/products-img/Cámara de Seguridad Hikvision.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 34,
+      "title": "Reloj Despertador Philips",
+      "description": "Reloj despertador con radio FM y alarma dual.",
+      "price": 30000,
+      "pictureUrl": "/src/assets/products-img/Reloj Despertador Philips.jpeg",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 35,
+      "title": "Lavarropas Automático Samsung 7kg",
+      "description": "Lavarropas de carga frontal con tecnología EcoBubble.",
+      "price": 190000,
+      "pictureUrl": "/src/assets/products-img/Lavarropas Automático Samsung 7kg.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 36,
+      "title": "Smart Speaker Amazon Echo Dot",
+      "description": "Altavoz inteligente con Alexa integrado y control de voz.",
+      "price": 35000,
+      "pictureUrl": "/src/assets/products-img/Smart Speaker Amazon Echo Dot.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 37,
+      "title": "Mouse Inalámbrico Logitech MX Master 3",
+      "description": "Mouse ergonómico con batería recargable y conectividad Bluetooth.",
+      "price": 48000,
+      "pictureUrl": "/src/assets/products-img/Mouse Inalámbrico Logitech MX Master 3.jpeg",
+      "category": "Tecnologia"
+    },
+    {
+      "id": 38,
+      "title": "Cafetera Express De'Longhi",
+      "description": "Cafetera express con vaporizador de leche y molinillo integrado.",
+      "price": 220000,
+      "pictureUrl": "/src/assets/products-img/Cafetera Express De'Longhi.jpeg",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 39,
+      "title": "Heladera Whirlpool 500L No Frost",
+      "description": "Heladera con capacidad de 500 litros y tecnología No Frost.",
+      "price": 450000,
+      "pictureUrl": "/src/assets/products-img/Heladera Whirlpool 500L No Frost.webp",
+      "category": "Electrodomesticos"
+    },
+    {
+      "id": 40,
+      "title": "Impresora Láser Brother HL-L2370DW",
+      "description": "Impresora láser monocromática con conectividad inalámbrica.",
+      "price": 120000,
+      "pictureUrl": "/src/assets/products-img/Impresora Láser Brother HL-L2370DW.jpeg",
+      "category": "Tecnologia"
+    }
+  ]
+  

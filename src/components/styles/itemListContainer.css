@@ -3,3 +3,10 @@
   color: #81416c;
   font-weight: normal;
 }
+
+.loading {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 20px;
+  color: #262727;
+}
