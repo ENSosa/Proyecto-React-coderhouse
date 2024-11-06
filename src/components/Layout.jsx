@@ -1,16 +1,20 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import NavBar from './NavBar'
+import { Theme } from '../contexts/ThemeProvider'
+import '../styles/layout.css'
+import Footer from './Footer'
 
-
-const Layout = ({children}) => {
+const Layout = ({ children }) => {
+  const { dark } = useContext(Theme)
   return (
     <>
-    <NavBar/>
-    <div>
+      <NavBar />
+      <div className={dark ? "main-container-dark" : "main-container-ligth"}>
         {children}
-    </div>
+      </div>
+      <Footer />
     </>
   )
 }
 
-export default Layout
+export default Layout  

@@ -1,0 +1,17 @@
+.quantity-controls {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.add-to-cart {
+  border: none;
+  background: none;
+  background-color: #777474;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: auto;
+}

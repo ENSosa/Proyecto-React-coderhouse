@@ -23,14 +23,13 @@
   align-items: center;
   margin: 0;
   padding: 0;
-  gap: 20px; /* Agrega espacio entre los elementos */
+  gap: 20px;
 }
 
 .nav-links li {
-  margin: 0 15px; /* Espacio a los lados de cada li */
+  margin: 0 15px;
   padding: 10px;
 }
-
 
 .nav-links li a {
   text-decoration: none;

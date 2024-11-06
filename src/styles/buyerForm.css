@@ -1,0 +1,50 @@
+.purchase-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 24px;
+    margin: 16px auto;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    max-width: 400px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.purchase-form h3 {
+    font-size: 20px;
+    margin-bottom: 16px;
+    color: #333;
+}
+
+.purchase-form input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.purchase-form input:focus {
+    outline: none;
+    border-color: #81416c;
+    box-shadow: 0 0 5px rgba(129, 65, 108, 0.5);
+}
+
+.purchase-form button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #81416c;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 10px;
+}
+
+.purchase-form button:hover {
+    background-color: #5e2f4d;
+}
