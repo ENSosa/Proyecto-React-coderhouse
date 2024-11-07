@@ -43,3 +43,8 @@ Al confirmar la compra, se genera un número de orden y se muestra un mensaje de
 Notificaciones:
 
 SweetAlert muestra notificaciones en cada paso importante, como agregar productos al carrito, vaciarlo o al completar una compra.
+
+              ## Video de demostración
+
+Puedes ver el video de la demostración en el siguiente enlace:  
+[Ver Video de Presentacion](https://drive.google.com/file/d/1NcUtjHkLMCNOZqACp3rkfc1GQYh71NWb/view?usp=sharing)
