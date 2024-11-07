@@ -10,7 +10,7 @@ const Footer = () => {
                 <li className="nav-item"><a href="#" className="nav-link px-2 text-body-secondary">Tecnología</a></li>
                 <li className="nav-item"><a href="#" className="nav-link px-2 text-body-secondary">Carrito</a></li>
             </ul>
-            <p class="text-center text-body-secondary">&copy; 2024 Company, Inc</p>
+            <p className="text-center text-body-secondary">&copy; 2024 Company, Inc</p>
         </footer>
     )
 }
